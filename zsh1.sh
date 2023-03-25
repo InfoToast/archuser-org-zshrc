@@ -1,4 +1,4 @@
-echo "Select your distro to install importent software then select 7 to install zsh:"
+echo "Select your operating system to install ZSH:"
 
 echo ""
 echo "1) Debian/Debian based"
